@@ -1,4 +1,4 @@
-# Taxi Trip Analysis with SageMaker
+# Chicago Taxi Trip Analysis with SageMaker
 
 This repository contains the supporting notebooks and code for analysing the data of Chicago taxi trips using AWS Sagemaker.
 
