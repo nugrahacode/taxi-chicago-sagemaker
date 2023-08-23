@@ -1,0 +1,4 @@
+# Rename this file into config.yaml
+feature_group_name: xxx
+bucket_name: xxx
+bucket_prefix: xxx
