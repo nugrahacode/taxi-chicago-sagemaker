@@ -15,6 +15,16 @@
       "format": "",
       "timezone": "",
       "description": ""
+    },
+    {
+      "id": "75e263ea-6cb0-4f86-9b7f-4f34e381b55a",
+      "name": "file_path",
+      "type": "String",
+      "default_value": "dataset/",
+      "pattern_expression": "",
+      "format": "",
+      "timezone": "",
+      "description": ""
     }
   ],
   "nodes": [
