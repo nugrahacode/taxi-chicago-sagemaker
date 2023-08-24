@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 # Ignore the config file
-config.yaml
+*.yaml
 
 # Other
 *.csv
