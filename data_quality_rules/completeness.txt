@@ -1,0 +1,8 @@
+# Example rules: Completeness "colA" between 0.4 and 0.8, ColumnCount > 10
+Rules = [
+    IsComplete "trip_miles",
+    IsComplete "tips",
+    IsComplete "tolls",
+    IsComplete "extras",
+    IsComplete "trip_total"
+]

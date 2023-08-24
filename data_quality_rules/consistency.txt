@@ -1,0 +1,13 @@
+# Example rules: Completeness "colA" between 0.4 and 0.8, ColumnCount > 10
+Rules = [
+    StandardDeviation "start_minute" between 16.69 and 18.44,
+    StandardDeviation "start_day" between 8.12 and 8.97,
+    StandardDeviation "start_month" between 1.87 and 2.07,
+    StandardDeviation "trip_total" between 25.68 and 28.39,
+    StandardDeviation "extras" between 8.42 and 9.31,
+    StandardDeviation "tips" between 3.57 and 3.95,
+    StandardDeviation "trip_miles" between 6.85 and 7.57,
+    StandardDeviation "trip_seconds" between 1869.4 and 2066.18,
+    ColumnCount = 183,
+    Mean "trip_total" < 28
+]

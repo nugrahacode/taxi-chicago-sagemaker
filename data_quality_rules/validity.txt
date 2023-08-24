@@ -1,0 +1,6 @@
+# Example rules: Completeness "colA" between 0.4 and 0.8, ColumnCount > 10
+Rules = [
+    ColumnValues "payment_type" in ["credit_card","cash","mobile","prcard","unknown","no_charge","dispute"],
+    ColumnValues "payment_type" in ["credit_card","cash","mobile","prcard"] with threshold >= 0.95,
+    ColumnLength "payment_type" between 3 and 12
+]
