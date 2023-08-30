@@ -1,0 +1,78 @@
+[
+  {
+    "FeatureName": "trip_seconds",
+    "FeatureType": "Integral"
+  },
+  {
+    "FeatureName": "trip_miles",
+    "FeatureType": "Fractional"
+  },
+  {
+    "FeatureName": "pickup_community_area",
+    "FeatureType": "String"
+  },
+  {
+    "FeatureName": "dropoff_community_area",
+    "FeatureType": "String"
+  },
+  {
+    "FeatureName": "tips",
+    "FeatureType": "Fractional"
+  },
+  {
+    "FeatureName": "tolls",
+    "FeatureType": "Integral"
+  },
+  {
+    "FeatureName": "extras",
+    "FeatureType": "Integral"
+  },
+  {
+    "FeatureName": "trip_total",
+    "FeatureType": "Fractional"
+  },
+  {
+    "FeatureName": "payment_type",
+    "FeatureType": "String"
+  },
+  {
+    "FeatureName": "pickup_centroid_latitude",
+    "FeatureType": "Fractional"
+  },
+  {
+    "FeatureName": "pickup_centroid_longitude",
+    "FeatureType": "Fractional"
+  },
+  {
+    "FeatureName": "dropoff_centroid_latitude",
+    "FeatureType": "Fractional"
+  },
+  {
+    "FeatureName": "dropoff_centroid_longitude",
+    "FeatureType": "Fractional"
+  },
+  {
+    "FeatureName": "start_month",
+    "FeatureType": "Integral"
+  },
+  {
+    "FeatureName": "start_day",
+    "FeatureType": "Integral"
+  },
+  {
+    "FeatureName": "start_hour",
+    "FeatureType": "Integral"
+  },
+  {
+    "FeatureName": "start_minute",
+    "FeatureType": "Integral"
+  },
+  {
+    "FeatureName": "FS_ID",
+    "FeatureType": "Integral"
+  },
+  {
+    "FeatureName": "FS_time",
+    "FeatureType": "Fractional"
+  }
+]
